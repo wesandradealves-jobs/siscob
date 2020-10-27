@@ -1,0 +1,198 @@
+{
+  "shoppings": [
+    {
+      "shoppingId": 1,
+      "shoppingName": "NORTESHOPPING",
+      "active": true
+    },
+    {
+      "shoppingId": 2,
+      "shoppingName": "PLAZA NITEROI",
+      "active": true
+    },
+    {
+      "shoppingId": 3,
+      "shoppingName": "RECREIO SHOPPING",
+      "active": true
+    },
+    {
+      "shoppingId": 4,
+      "shoppingName": "IGUATEMI CAXIAS",
+      "active": true
+    },
+    {
+      "shoppingId": 5,
+      "shoppingName": "ESTAÇAO",
+      "active": true
+    },
+    {
+      "shoppingId": 6,
+      "shoppingName": "TAMBORÉ",
+      "active": true
+    },
+    {
+      "shoppingId": 7,
+      "shoppingName": "CAMPO GRANDE",
+      "active": true
+    },
+    {
+      "shoppingId": 8,
+      "shoppingName": "DEL REY",
+      "active": true
+    },
+    {
+      "shoppingId": 9,
+      "shoppingName": "CURITIBA",
+      "active": true
+    },
+    {
+      "shoppingId": 10,
+      "shoppingName": "VILLA LOBOS",
+      "active": true
+    },
+    {
+      "shoppingId": 11,
+      "shoppingName": "ARAGUAIA",
+      "active": true
+    },
+    {
+      "shoppingId": 12,
+      "shoppingName": "CAMPINAS",
+      "active": true
+    },
+    {
+      "shoppingId": 13,
+      "shoppingName": "GOIANIA",
+      "active": true
+    },
+    {
+      "shoppingId": 14,
+      "shoppingName": "PIRACICABA",
+      "active": true
+    },
+    {
+      "shoppingId": 15,
+      "shoppingName": "ABC",
+      "active": true
+    },
+    {
+      "shoppingId": 16,
+      "shoppingName": "AMAZONAS",
+      "active": true
+    },
+    {
+      "shoppingId": 17,
+      "shoppingName": "INDEPENDENCIA",
+      "active": true
+    },
+    {
+      "shoppingId": 18,
+      "shoppingName": "METRO SANTA CRUZ",
+      "active": true
+    },
+    {
+      "shoppingId": 19,
+      "shoppingName": "TIJUCA",
+      "active": true
+    },
+    {
+      "shoppingId": 20,
+      "shoppingName": "UBERLÂNDIA",
+      "active": true
+    },
+    {
+      "shoppingId": 21,
+      "shoppingName": "CATUAI MARINGA",
+      "active": true
+    },
+    {
+      "shoppingId": 22,
+      "shoppingName": "CATUAI LONDRINA",
+      "active": true
+    },
+    {
+      "shoppingId": 23,
+      "shoppingName": "MOOCA",
+      "active": true
+    },
+    {
+      "shoppingId": 24,
+      "shoppingName": "SAO BERNARDO",
+      "active": true
+    },
+    {
+      "shoppingId": 25,
+      "shoppingName": "ESTACAO BH",
+      "active": true
+    },
+    {
+      "shoppingId": 26,
+      "shoppingName": "GUARUJA",
+      "active": true
+    },
+    {
+      "shoppingId": 27,
+      "shoppingName": "VILA VELHA",
+      "active": true
+    },
+    {
+      "shoppingId": 28,
+      "shoppingName": "JARDIM SUL",
+      "active": true
+    },
+    {
+      "shoppingId": 29,
+      "shoppingName": "RIO ANIL",
+      "active": true
+    },
+    {
+      "shoppingId": 30,
+      "shoppingName": "LONDRINA NORTE",
+      "active": true
+    },
+    {
+      "shoppingId": 31,
+      "shoppingName": "CAPIM DOURADO",
+      "active": true
+    },
+    {
+      "shoppingId": 32,
+      "shoppingName": "PLAZA SAO PAULO",
+      "active": true
+    },
+    {
+      "shoppingId": 33,
+      "shoppingName": "ESTACAO CUIABA",
+      "active": true
+    },
+    {
+      "shoppingId": 34,
+      "shoppingName": "RECIFE",
+      "active": true
+    }
+  ],
+  "prioritization": [
+    {
+      "month": "Agosto",
+      "blockNumber": 1,
+      "blockEndingDate": "2020-08-31",
+      "blockStartingDate": "2020-08-01",
+      "data": [
+        {
+          "customer": 7848135,
+          "priority": 1,
+          "customerName": "EMPORIO CARMIGNANI LTDA",
+          "cpfCnpj": "08114801",
+          "status": "1",
+          "brand": "EMPORIO CARMIGNANI",
+          "overdueBalanceInMonth": 4025.370000000001,
+          "totalOverdueBalance": 618390.6099999999,
+          "dueBalanceInMonth": 8390.609999999911,
+          "totalDueBalance": 119582.60999999991,
+          "lastContactStatus": "Negociado",
+          "hasCorporateBilling": true
+        }
+      ]
+    }
+  ]
+}
